@@ -10,8 +10,15 @@
 header{
     text-align: center;
 }
-ul{
-display: flex;
-    flex-wrap: wrap;
 
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
 }
+
+.gallery_item{
+    margin: 15px;
+}
+
+
